@@ -1,0 +1,6 @@
+#include <iostream>
+#include "func.h"
+
+int mult(int a, int b) {
+    return a*b;
+}
