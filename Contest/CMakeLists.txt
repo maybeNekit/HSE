@@ -17,4 +17,14 @@ add_executable(Contest main.cpp
         6contest/E.cpp
         6contest/F.cpp
         6contest/G.cpp
-        6contest/H.cpp)
+        6contest/H.cpp
+        contest7/A.cpp
+        contest7/B.cpp
+        contest7/C.cpp
+        contest7/D.cpp
+        contest7/E.cpp
+        contest7/F.cpp
+        contest7/G.cpp
+        contest7/H.cpp
+        contest7/I.cpp
+        contest7/J.cpp)
