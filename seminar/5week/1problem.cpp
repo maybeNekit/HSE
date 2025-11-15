@@ -37,7 +37,10 @@ int main() {
         {"CR7", Permission::READ | Permission::WRITE | Permission::EXECUTE}
     };
     for (const auto& user : users) {
-        
+        std::cout << user.name << ": "  << "READ = " << check(user.permission, Permission::READ)<< ' ';
+        std::cout  << "WRITE = " << check(user.permission, Permission::WRITE)<< ' ';
+        std::cout << "EXECUTE = " << check(user.permission, Permission::EXECUTE)<< ' ';
+        std::cout << "DELETE = " << check(user.permission, Permission::DELETE)<< '\n';
     }
     return 0;
 }
