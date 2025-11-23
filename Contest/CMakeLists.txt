@@ -28,4 +28,7 @@ add_executable(Contest main.cpp
         contest7/H.cpp
         contest7/I.cpp
         contest7/J.cpp
-        contest8/a.cpp)
+        contest8/a.cpp
+        contest8/b.cpp
+        contest8/C.cpp
+        contest8/D.cpp)
