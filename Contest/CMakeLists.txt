@@ -31,4 +31,5 @@ add_executable(Contest main.cpp
         contest8/a.cpp
         contest8/b.cpp
         contest8/C.cpp
-        contest8/D.cpp)
+        contest8/D.cpp
+)

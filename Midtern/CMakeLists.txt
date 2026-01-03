@@ -22,4 +22,23 @@ add_executable(Midtern main.cpp
         mid/3.cpp
         mid/4.cpp
         mid/5.cpp
+        Demo2/main.cpp
+        Demo2/3task.cpp
+        Demo2/4task.cpp
+        Demo2/5task.cpp
+        Demo2/11.cpp
+        Demo2/22.cpp
+        Demo2/33.cpp
+        Demo2/44.cpp
+        Demo2/55.cpp
+        demo0/1.cpp
+        demo0/2.cpp
+        demo0/3.cpp
+        demo0/4.cpp
+        demo0/5.cpp
+        Mid2/1.cpp
+        Mid2/2.cpp
+        Mid2/3.cpp
+        Mid2/4.cpp
+        Mid2/5.cpp
 )
